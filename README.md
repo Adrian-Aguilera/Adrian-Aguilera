@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrian-aguilera&label=Profile%20views&color=0e75b6&style=flat" alt="adrian-aguilera" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrian-aguilera&theme=radical" alt="adrian-aguilera" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrian-aguilera&theme=nord" alt="adrian-aguilera" /></a> </p>
 
 - 🔭 I’m currently working on [CityLab](https://citylab.la/)
 
