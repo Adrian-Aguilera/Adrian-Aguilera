@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrián Aguilera</h1>
 <h3 align="center">A passionate back-end developer from El Salvador</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrian-aguilera&label=Profile%20views&color=0e75b6&style=flat" alt="adrian-aguilera" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrian-aguilera&label=Profile%20views&color=0e75b6&style=flat" alt="adrian-aguilera" style="aling=center" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrian-aguilera&theme=nord&row=5&column=9" alt="adrian-aguilera" /></a> </p>
 
