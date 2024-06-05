@@ -78,8 +78,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="45" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="45" alt="ubuntu logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="45" alt="cloudflare logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="arduino logo"  />
