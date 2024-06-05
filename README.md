@@ -2,6 +2,11 @@
 
 ###
 
+<h5 align="center">Desarrollador especializado en lenguaje Python, con experiencia desarrollando herramientas de optimización de gestión, trabajando con librerías reconocidas en la industria como OpenCV, BeautifulSoup, Requests, locust, etc, adaptando scripts para poder consumirlos a través de endpoints para su uso fácil, experiencia consumiendo y construyendo endpoints con Django Rest framework y FastAPI</h5>
+
+###
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adrian-Aguilera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adrian-Aguilera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
