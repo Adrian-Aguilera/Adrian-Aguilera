@@ -13,6 +13,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adrian-Aguilera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+- 🔭 I’m currently working on [CityLab](https://citylab.la/)
+
+- 🌱 I’m currently learning **AI Solutions Visionary**
+
+- 👯 I’m looking to collaborate on **Project Open Source**
+
+- 💬 Ask me about **Python, Linux, Droplets**
+
+- 📫 How to reach me **adrian.aguileragcm@gmail.com**
+###
 
 <h3 align="center">Skills</h3>
 <div align="left">
