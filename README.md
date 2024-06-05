@@ -8,15 +8,6 @@
 </div>
 
 ###
-- 🔭 I’m currently working on [CityLab](https://citylab.la/)
-
-- 🌱 I’m currently learning **AI Solutions Visionary**
-
-- 👯 I’m looking to collaborate on **Project Open Source**
-
-- 💬 Ask me about **Python, Linux, Droplets**
-
-- 📫 How to reach me **adrian.aguileragcm@gmail.com**
 ###
 
 <br clear="both">
@@ -101,5 +92,15 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Adrian-Aguilera/Adrian-Aguilera/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/21eoy7mfmzohskzeixeieajoq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21eoy7mfmzohskzeixeieajoq&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
