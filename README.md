@@ -67,7 +67,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" height="45" alt="ssh logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="45" alt="wordpress logo"  />
   <img width="12" />
