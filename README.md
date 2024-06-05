@@ -11,7 +11,6 @@
 </div>
 ###
 
-###
 - 🔭 I’m currently working on [CityLab](https://citylab.la/)
 
 - 🌱 I’m currently learning **AI Solutions Visionary**
