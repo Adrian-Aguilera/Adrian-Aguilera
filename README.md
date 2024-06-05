@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">Desarrollador especializado en lenguaje Python, con experiencia desarrollando herramientas de optimización de gestión, trabajando con librerías reconocidas en la industria como OpenCV, BeautifulSoup, Requests, locust, etc, adaptando scripts para poder consumirlos a través de endpoints para su uso fácil, experiencia consumiendo y construyendo endpoints con Django Rest framework y FastAPI</h5>
+<h5 align="center">Developer specialized in Python language, with experience developing management optimization tools, working with industry-recognized libraries such as OpenCV, BeautifulSoup, Requests, locust, etc., adapting scripts to be able to consume them through endpoints for easy use, consuming experience and building endpoints with Django Rest framework and FastAPI</h5>
 
 ###
 
@@ -14,10 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adrian-Aguilera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div> <a href="https://github.com/Adrian-Aguilera" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-###
-
+<h3 align="center">Skills</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -79,6 +76,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
 </div>
+<div> <a href="https://github.com/Adrian-Aguilera" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+###
+
 <div align="center">
 <a href="https://github.com/Adrian-Aguilera">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adrian-Aguilera&theme=2077" height="180em" />
