@@ -8,6 +8,15 @@
 </div>
 
 ###
+- 🔭 I’m currently working on [CityLab](https://citylab.la/)
+
+- 🌱 I’m currently learning **AI Solutions Visionary**
+
+- 👯 I’m looking to collaborate on **Project Open Source**
+
+- 💬 Ask me about **Python, Linux, Droplets**
+
+- 📫 How to reach me **adrian.aguileragcm@gmail.com**
 ###
 
 <br clear="both">
