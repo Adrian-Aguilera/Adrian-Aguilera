@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Adrian Aguilera and I'm a Python developer from El Salvador</h1>
+<h2 align="left">Hi 👋! My name is Adrian Aguilera and I'm a Python developer from El Salvador</h2>
 
 ###
 
