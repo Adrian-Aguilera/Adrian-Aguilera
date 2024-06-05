@@ -98,8 +98,6 @@
 
 ###
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Adrian-Aguilera/Adrian-Aguilera/output/snake.svg" alt="Snake animation" />
