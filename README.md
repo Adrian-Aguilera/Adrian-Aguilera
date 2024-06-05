@@ -5,31 +5,6 @@
 <h5 align="center">Desarrollador especializado en lenguaje Python, con experiencia desarrollando herramientas de optimización de gestión, trabajando con librerías reconocidas en la industria como OpenCV, BeautifulSoup, Requests, locust, etc, adaptando scripts para poder consumirlos a través de endpoints para su uso fácil, experiencia consumiendo y construyendo endpoints con Django Rest framework y FastAPI</h5>
 
 ###
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adrian-Aguilera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adrian-Aguilera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<div> <a href="https://github.com/Adrian-Aguilera" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/Adrian-Aguilera">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adrian-Aguilera&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adrian-Aguilera&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adrian-Aguilera&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adrian-Aguilera&theme=2077" height="180em" />
-  </div>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrian-Aguilera&theme=2077" height="180em" />
-</div>
-</div><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br clear="both">
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
 
 ###
 
@@ -94,6 +69,33 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adrian-Aguilera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adrian-Aguilera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<div> <a href="https://github.com/Adrian-Aguilera" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/Adrian-Aguilera">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adrian-Aguilera&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adrian-Aguilera&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adrian-Aguilera&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adrian-Aguilera&theme=2077" height="180em" />
+  </div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrian-Aguilera&theme=2077" height="180em" />
+</div>
+</div><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br clear="both">
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
+
 
 ###
 <div align="center">
