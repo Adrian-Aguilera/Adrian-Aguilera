@@ -100,17 +100,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adrian-Aguilera&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adrian-Aguilera&theme=2077" height="180em" />
   </div>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrian-Aguilera&theme=2077" height="180em" />
-</div>
-</div><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<div align="center">
-  <a href="https://open.spotify.com/user/21eoy7mfmzohskzeixeieajoq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21eoy7mfmzohskzeixeieajoq&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
