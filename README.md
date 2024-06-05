@@ -16,7 +16,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adrian-Aguilera&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adrian-Aguilera&theme=2077" height="180em" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrian-Aguilera&theme=2077" height="180em" />
+</div> <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrian-Aguilera&theme=2077" height="180em" />
 </div>
 </div><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
