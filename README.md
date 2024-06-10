@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Project Open Source**
 
-- 💬 Ask me about **Python, Linux, Droplets**
+- 💬 Ask me about **Python, Linux, Droplets, IA technology**
 
 - 📫 How to reach me **adrian.aguileragcm@gmail.com**
 ###
