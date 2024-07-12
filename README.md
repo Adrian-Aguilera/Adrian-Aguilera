@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Python, Linux, Droplets, IA technology**
  
-- 📫 How to reach me **adrian.aguileragcm@gmail.com**     
+- 📫 How to reach me **adrian.aguileragcm@gmail.com**      
 ###
    
    
