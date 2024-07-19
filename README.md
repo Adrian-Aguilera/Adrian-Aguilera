@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on [ITCA-FEPADE](https://www.itca.edu.sv/)  
    
 - 🌱 I’m currently learning **AI Solutions Visionary**
- 
+  
 - 👯 I’m looking to collaborate on **Project Open Source**
   
 - 💬 Ask me about **Python, Linux, Droplets, IA technology**  
