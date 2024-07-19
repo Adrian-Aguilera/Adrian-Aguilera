@@ -1,5 +1,4 @@
-  <span class="ͼ8">&lt;</span>img <span class="ͼa">src</span>=<span class="ͼ9">"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"</span> <span class="ͼa">height</span>=<span class="ͼ9">"40"</span> <span class="ͼa">alt</span>=<span class="ͼ9">"vscode logo"</span> 
- <span class="ͼ8">/&gt;</span> <h2 align="left">Hi 👋! My name is Adrian Aguilera and I'm a Python developer from El Salvador</h2>
+<h2 align="left">Hi 👋! My name is Adrian Aguilera and I'm a Python developer from El Salvador</h2>
        
 ###                 
         
