@@ -3,7 +3,7 @@
 ###                     
              
 <h4 align="center">Developer specialized in Python language, with experience developing management optimization tools, working with industry-recognized libraries such as OpenCV, BeautifulSoup, Requests, locust, etc., adapting scripts to be able to consume them through endpoints for easy use, consuming experience and building endpoints with Django Rest framework and FastAPI</h4>
-       
+
 ###      
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=Adrian-Aguilera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
