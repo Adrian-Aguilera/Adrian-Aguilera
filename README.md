@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adrian-Aguilera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
   
-- 🔭 I’m currently working on [ITCA-FEPADE](https://www.itca.edu.sv/)   
+- 🔭 I’m currently working as freelance on [ITCA-FEPADE](https://www.itca.edu.sv/)   
    
 - 🌱 I’m currently learning **AI Solutions Visionary**  
   
