@@ -12,13 +12,15 @@
   
 - 🔭 I’m currently working as python developer on [Tech-Americas, INC](https://www.tech-americas.com/)
    
-- 🌱 I’m currently learning **AI Solutions Visionary**  
+- 🌱 I’m currently learning **AI Solutions Visionary**
   
 - 👯 I’m looking to collaborate on **Project Open Source**
   
 - 💬 Ask me about **Python, Linux, Droplets, IA technology**  
  
-- 📫 How to reach me **adrian.aguileragcm@gmail.com**       
+- 📫 How to reach me **adrian.aguileragcm@gmail.com**
+  
+- 💼 You can see [my portfolio](https://adrian-aguilera.github.io/Portafolio-WEB/)
 ###
    
     
